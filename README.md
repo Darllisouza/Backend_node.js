@@ -1,4 +1,5 @@
-## Curso - Node.js
+## Backend - Node.js
+
 Este repositório contém os recursos e códigos utilizados no curso de Node.js, abrangendo desde conceitos básicos até tópicos avançados.
 Playlist do curso: https://www.youtube.com/playlist?list=PLnex8IkmReXwCyR-cGkyy8tCVAW7fGZow
 
